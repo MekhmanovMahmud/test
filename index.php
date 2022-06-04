@@ -14,6 +14,7 @@ echo "<br>";
 echo $name . $surname;
 echo "<br>";
 echo $hi/$o;
+echo "Цветы в вазе менты в Уазе"
 
 ?>
 
